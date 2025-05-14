@@ -57,6 +57,11 @@ You're reading it! This file explains the contents and structure of the reposito
 
 ---
 
+## 📈 Visualizations
+
+![Occupation Breakdown](./occupation_img.png)  
+*Figure: Pie chart showing declared occupations of 2024 Lok Sabha candidates.*
+
 ## 📌 Notes
 
 - All data is for **academic and non-commercial** purposes.
