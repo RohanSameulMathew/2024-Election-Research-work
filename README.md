@@ -62,6 +62,23 @@ You're reading it! This file explains the contents and structure of the reposito
 ![Occupation Breakdown](./occupation_img.png)  
 *Figure: Pie chart showing declared occupations of 2024 Lok Sabha candidates.*
 
+---
+
+## 📚 Bibliographies and Citations
+
+These documents provide source references, citation formats, and scholarly summaries relevant to the dataset and election research.
+
+### 10. [2024_Election_Scholar_Results.docx](./2024_Election_Scholar_Results.docx)  
+Nicely formatted citation, link, and title of academic papers
+
+### 11. [2024_Election_Bibliography.docx](./2024_Election_Bibliography.docx)  
+Bibliography of academic papers related to the 2024 election.
+
+### 12. [citations_chicago.json](./citations_chicago.json)  
+Machine-readable JSON file formatted in Chicago citation style. Useful for auto-generating reference sections.
+
+---
+
 ## 📌 Notes
 
 - All data is for **academic and non-commercial** purposes.
